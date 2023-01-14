@@ -1,6 +1,6 @@
 # Udacity - Data Visualization with Tableau
 ## Overview
-This was my third project with Udacity's Data Analyst Nanodegree. The class was called 'Data Visualization' where I learned on how to explore data by 
+This was my third class with Udacity's Data Analyst Nanodegree. The class was called 'Data Visualization' where I learned on how to explore data by 
 creating visualizations with Tableau. I have never had any experience with Tableau before this class, so I was able to learn and grow in many different 
 areas. I learned how to use multiple types of charts and how to optimize the charts so they were clear and easy to understand. I learned about the 
 importance of keeping charts simple and clean and also about how to use each chart color with intention behind it. I was required to analyze three 
